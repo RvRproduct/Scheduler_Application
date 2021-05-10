@@ -13,9 +13,7 @@ I actually want to develop a more unique, useful, and applicable scheduler app i
 purpose of making this application was for me to get a better idea of what I might have to do in the
 future.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Xe8-eKrETJw)
 
 # Development Environment
 
@@ -26,7 +24,6 @@ and made sure the code was easy to look at and easy to understand as possible.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Mosh Code](https://codewithmosh.com/p/python-programming-course-beginners)
 * [realpython](https://realpython.com/iterate-through-dictionary-python/)
 
