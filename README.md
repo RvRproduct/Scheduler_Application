@@ -24,11 +24,12 @@ and made sure the code was easy to look at and easy to understand as possible.
 
 # Useful Websites
 
-* [Arcade](https://api.arcade.academy/resources.html)
+* [Mosh Code](https://codewithmosh.com/p/python-programming-course-beginners)
 * [realpython](https://realpython.com/iterate-through-dictionary-python/)
 
 # Future Work
 
 * Getting Better at analyzing how long an idea might take within a deadline.
-* Getting better at understanding the library given to me, if I am using one, so I can use it to its maximum capacity.
-* Get better at Python, so I can feel as though I can create anything with it.
+* Get better at working with separate files.
+* Work with some sort of engine that can express more design for the appilcation, (for example like a game engine for a video game)
+
